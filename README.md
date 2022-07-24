@@ -1,6 +1,6 @@
 
 # SI-GuidedProject-86173-1657775983\
-Fertilizers Recommendation System For Disease Prediction
+Fertilizers Recommendation System For Disease Prediction<br>
 Dataset Zip : https://drive.google.com/file/d/1qcUGncBEPLKIt10mZp7S2Gam6apLUBCQ/view?usp=sharing
 Flask : 
   Static    : https://drive.google.com/drive/folders/1maM-nRSFsFpv2VXXHF5Aa9Zm906rd3Ul?usp=sharing
