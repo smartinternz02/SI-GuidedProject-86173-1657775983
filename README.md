@@ -15,5 +15,5 @@ Training File<br>
     Vegetable:  https://drive.google.com/file/d/1naqWzXCZHEkrGpQ4Byh7kmmqYEGBePUz/view?usp=sharing<br>
 IBM Deployment wasn't done due to Memory usage got completed for the month --- so deployed using spyder in flask<br>
 
-
-
+Project Report :  https://docs.google.com/document/d/1p5FY5njX-74hUFFp-ugqQQnxG-ITCedc/edit?usp=sharing&ouid=100690439498405105801&rtpof=true&sd=true<br>
+Project Video  :  https://drive.google.com/file/d/1X0kJDjUYOyQoo7ajDUgj2bCY4j6sxMOc/view?usp=sharing<br>
