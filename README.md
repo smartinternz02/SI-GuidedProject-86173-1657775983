@@ -17,3 +17,8 @@ IBM Deployment wasn't done due to Memory usage got completed for the month --- s
 
 Project Report :  https://docs.google.com/document/d/1p5FY5njX-74hUFFp-ugqQQnxG-ITCedc/edit?usp=sharing&ouid=100690439498405105801&rtpof=true&sd=true<br>
 Project Video  :  https://drive.google.com/file/d/1X0kJDjUYOyQoo7ajDUgj2bCY4j6sxMOc/view?usp=sharing<br>
+
+badge 1 :https://www.credly.com/badges/c24c2591-ab3e-466a-bf33-c75a7e8cc51b<br>
+badge 2: https://www.credly.com/badges/91b31c58-2949-432b-83e3-6b16fc71e6e9<br>
+badge 3 : https://www.credly.com/badges/d52eb399-340b-4906-8dec-8c00c44ca54a<br>
+badge 4 : https://drive.google.com/file/d/12XAhlBvrBwKEa2uCo_BEzot5-vhkJIDS/view?usp=sharing<br>
